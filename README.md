@@ -1,2 +1,3 @@
-Git Practice
-Testing CI from pull request
+Git Practice from MacBook
+Line A edited by MacBook
+Line B edited by MacBook
